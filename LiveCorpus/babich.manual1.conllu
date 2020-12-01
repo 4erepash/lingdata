@@ -1037,8 +1037,8 @@
 1037	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#263.723#264.03
 1038	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#264.03#264.34
 1039	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@vb1991m#ВладиславБабич#264.5#264.763
-1040	не	не	PART	_	_	_	_	_	words@vb1991m#ВладиславБабич#264.763#265.026
-1041	готовим	готовить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	_	_	_ words@vb1991m#ВладиславБабич#265.026#265.289
+1040	не	не	PART	_	_	_	_	_	words@vb1991m#ВладиславБабич#264.763#265.02
+1041	готовим	готовить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	_	_	_	words@vb1991m#ВладиславБабич#265.026#265.289
 1042	американо	американо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vb1991m#ВладиславБабич#265.289#265.552
 1043	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#265.552#265.815
 1044	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#265.815#266.08
