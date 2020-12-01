@@ -1,8 +1,8 @@
-1	Слава	Слава	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#0.55#0.695
+1	Слава	Слава	PROPN	_ Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#0.55#0.695
 2	привет	привет	INTJ	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#0.695#0.84
 3	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#0.84#0.985
 4	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#0.985#1.13
-5	отлично	отличноADV	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко#2.14#2.351
+5	отлично	отлично ADV	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко#2.14#2.351
 6	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#2.351#2.562
 7	что	что	SCONJ	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#2.562#2.773
 8	у	у	ADP	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#2.773#2.984
@@ -54,7 +54,7 @@
 54	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#15.642#15.88
 55	эээ	э	INTJ	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#16.03#16.2
 56	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#16.2#16.37
-57	как	как	SCONJ	_	__	_	_	words@dk1979m#ДмитрийКостырко#16.46#16.698
+57	как	как	SCONJ	_	_ _	_	_	words@dk1979m#ДмитрийКостырко#16.46#16.698
 58	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@dk1979m#ДмитрийКостырко#16.698#16.936
 59	вообще	вообще	PART	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко#16.936#17.174
 60	пришел	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dk1979m#ДмитрийКостырко#17.174#17.412
@@ -65,10 +65,10 @@
 65	профессию	профессия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#18.54#18.74
 66	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#18.74#18.94
 67	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#18.94#19.14
-68	#смеётся#	#смеётся#	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#65.41#65.85
+68	#смеётся#	#смеётся#	_	_	_	_	_ _	words@dk1979m#ДмитрийКостырко#65.41#65.85
 69	наверное	наверное	ADV	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко##81.06#81.44
 70	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#81.44#81.82
-71	этим	это	DET	_Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing		_	_	_	words@dk1979m#ДмитрийКостырко##82.22#82.543
+71	этим	это	DET	_ Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing _	_	_	words@dk1979m#ДмитрийКостырко##82.22#82.543
 72	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#82.543#82.866
 73	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@dk1979m#ДмитрийКостырко##82.866#83.189
 74	так	так	ADV	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко#83.189#83.512
@@ -290,8 +290,8 @@
 290	там	там	ADV	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко#270.025#270.407
 291	книга	книга	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#270.407#270.789
 292	жалоб!	жалоба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	words@dk1979m#ДмитрийКостырко#270.789#271.171
-293	администратор!	администратор	NOUN	_		Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#271.171#271.555
-294	#смеётся#	#смеётся#	_	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#278.83#279.04
+293	администратор! администратор	NOUN	_		Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#271.171#271.555
+294 #смеётся# #смеётся# _ _ _ _ _ _ words@dk1979m#ДмитрийКостырко#278.83#279.04
 295	а	а	CCONJ	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#279.04#279.25
 296	поговорить	поговорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@dk1979m#ДмитрийКостырко#279.25#279.46
 297	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#279.46#279.67
@@ -395,7 +395,7 @@
 395	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vb1991m#ВладиславБабич#39.794#39.923
 396	как	как	ADV	_	Degree=Pos	_	_	_	words@vb1991m#ВладиславБабич#39.923#40.052
 397	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vb1991m#ВладиславБабич#40.052#40.181
-398	гото...	готовить	VERB	_	Aspect=Ind|VerbForm=Inf|Voice=Act		_	_	_	words@vb1991m#ВладиславБабич#40.181#40.31
+398	гото...	готовить	VERB  _	Aspect=Ind|VerbForm=Inf|Voice=Act	_	_	_	words@vb1991m#ВладиславБабич#40.181#40.31
 399	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#40.31#40.44
 400	нажал	нажать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vb1991m#ВладиславБабич#40.51#40.752
 401	на	на	ADP	_	_	_	_	_	words@vb1991m#ВладиславБабич#40.752#40.994
@@ -562,7 +562,7 @@
 562	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@vb1991m#ВладиславБабич#87.976#88.382
 563	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#88.382#88.788
 564	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vb1991m#ВладиславБабич#88.788#89.194
-565	кофейня	кофейя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing		_	_	_	words@vb1991m#ВладиславБабич#89.194#89.6
+565	кофейня	кофейя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing  _	_	_	words@vb1991m#ВладиславБабич#89.194#89.6
 566	её	она	DET	_	Gender=Fem|Number=Sing|Person=3	_	_	_	words@vb1991m#ВладиславБабич#89.6#90.006
 567	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#90.006#90.412
 568	знакомых	знакомый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@vb1991m#ВладиславБабич#90.412#90.818
@@ -939,7 +939,7 @@
 939	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#225.276#225.49
 940	дома	дома	ADV	_	Degree=Pos	_	_	_	words@vb1991m#ВладиславБабич#233.83#234.066
 941	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#234.066#234.302
-942	конечно	конечно	ADV	_	__	_	_	words@vb1991m#ВладиславБабич#234.302#234.538
+942	конечно	конечно	ADV	_	_ _	_	_	words@vb1991m#ВладиславБабич#234.302#234.538
 943	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#234.538#234.774
 944	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#234.774#235.01
 945	вот	вот	PART	_	_	_	_	_	words@vb1991m#ВладиславБабич#235.94#236.085
@@ -1038,11 +1038,11 @@
 1038	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#264.03#264.34
 1039	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@vb1991m#ВладиславБабич#264.5#264.763
 1040	не	не	PART	_	_	_	_	_	words@vb1991m#ВладиславБабич#264.763#265.026
-1041	готовим	готовить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act		_	_	words@vb1991m#ВладиславБабич#265.026#265.289
+1041	готовим	готовить	VERB  _	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	_	_	words@vb1991m#ВладиславБабич#265.026#265.289
 1042	американо	американо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vb1991m#ВладиславБабич#265.289#265.552
 1043	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#265.552#265.815
 1044	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#265.815#266.08
-1045	американо	американо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	words@vb1991m#ВладиславБабич#266.67#266.87
+1045	американо	американо	NOUN  _	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_ words@vb1991m#ВладиславБабич#266.67#266.87
 1046	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#266.87#267.07
 1047	/	/	PUNCT	_	_	_	_	_	words@vb1991m#ВладиславБабич#267.07#267.27
 1048	да	да	PART	_	_	_	_	_	words@vb1991m#ВладиславБабич#270.71#270.94
