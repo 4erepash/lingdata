@@ -1,8 +1,8 @@
-1	Слава	Слава	PROPN _ Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#0.55#0.695
+1	Слава	Слава	PROPN	_	Аnimacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#0.55#0.695
 2	привет	привет	INTJ	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#0.695#0.84
 3	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#0.84#0.985
 4	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#0.985#1.13
-5	отлично	отлично ADV	_	Degree=Pos  _	_	_ words@dk1979m#ДмитрийКостырко#2.14#2.351
+5	отлично	отлично	ADV	_	Degree=Pos  _	_	_ words@dk1979m#ДмитрийКостырко#2.14#2.351
 6	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#2.351#2.562
 7	что	что	SCONJ	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#2.562#2.773
 8	у	у	ADP	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#2.773#2.984
@@ -54,7 +54,7 @@
 54	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#15.642#15.88
 55	эээ	э	INTJ	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#16.03#16.2
 56	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#16.2#16.37
-57	как	как	SCONJ	_	_ _	_	_	words@dk1979m#ДмитрийКостырко#16.46#16.698
+57	как	как	SCONJ	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#16.46#16.698
 58	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@dk1979m#ДмитрийКостырко#16.698#16.936
 59	вообще	вообще	PART	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко#16.936#17.174
 60	пришел	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dk1979m#ДмитрийКостырко#17.174#17.412
@@ -65,10 +65,10 @@
 65	профессию	профессия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#18.54#18.74
 66	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#18.74#18.94
 67	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#18.94#19.14
-68	#смеётся#	#смеётся#	_	_	_	_	_ _	words@dk1979m#ДмитрийКостырко#65.41#65.85
+68	#смеётся#	#смеётся#	_	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#65.41#65.85
 69	наверное	наверное	ADV	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко##81.06#81.44
 70	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#81.44#81.82
-71	этим	это	DET	_ Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing _	_	_	words@dk1979m#ДмитрийКостырко##82.22#82.543
+71	этим	это	DET	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко##82.22#82.543
 72	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#82.543#82.866
 73	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@dk1979m#ДмитрийКостырко##82.866#83.189
 74	так	так	ADV	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко#83.189#83.512
@@ -236,7 +236,7 @@
 236	чем	что	PRON	_	Case=Loc	_	_	_	words@dk1979m#ДмитрийКостырко#207.285#207.58
 237	как	как	ADV	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко#207.58#207.875
 238	бы	бы	PART	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#207.875#208.17
-239	сос...	состоять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act		_	_	_	words@dk1979m#ДмитрийКостырко#208.17#208.465
+239	сос...	состоять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dk1979m#ДмитрийКостырко#208.17#208.465
 240	состояла	состоять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dk1979m#ДмитрийКостырко#208.465#208.76
 241	сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#208.76#209.055
 242	задача?	задача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	words@dk1979m#ДмитрийКостырко#209.055#209.35
