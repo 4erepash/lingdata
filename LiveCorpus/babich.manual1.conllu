@@ -1,8 +1,8 @@
-1	Слава	Слава	PROPN	_ Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#0.55#0.695
+1	Слава	Слава	PROPN _ Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dk1979m#ДмитрийКостырко#0.55#0.695
 2	привет	привет	INTJ	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#0.695#0.84
 3	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#0.84#0.985
 4	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#0.985#1.13
-5	отлично	отлично ADV	_	Degree=Pos	_	_	_	words@dk1979m#ДмитрийКостырко#2.14#2.351
+5	отлично	отлично ADV	_	Degree=Pos  _	_	_ words@dk1979m#ДмитрийКостырко#2.14#2.351
 6	/	/	PUNCT	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#2.351#2.562
 7	что	что	SCONJ	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#2.562#2.773
 8	у	у	ADP	_	_	_	_	_	words@dk1979m#ДмитрийКостырко#2.773#2.984
